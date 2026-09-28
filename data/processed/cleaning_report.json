@@ -1,0 +1,30 @@
+{
+  "customer_duplicate_rows_removed": 48,
+  "invalid_age_rows": 21,
+  "watch_duration_p995": 117.0,
+  "session_duration_p995": 126.0,
+  "invalid_ticket_dates_to_null": 61,
+  "feedback_rating_label_disagreements": 263,
+  "subscription_plan_price_mismatch_rows": 570,
+  "payment_amount_p995": 23.77,
+  "payments_unresolved_subscription_id": 0,
+  "orphan_customer_fk_counts": {
+    "subscriptions": 0,
+    "viewing_activity": 0,
+    "payments": 0,
+    "support_tickets": 0,
+    "customer_feedback": 0,
+    "churn_labels": 0
+  },
+  "row_counts": {
+    "customers": 8000,
+    "subscription_plans": 3,
+    "subscriptions": 8875,
+    "content": 500,
+    "viewing_activity": 66422,
+    "payments": 110735,
+    "support_tickets": 6120,
+    "customer_feedback": 5046,
+    "churn_labels": 8000
+  }
+}

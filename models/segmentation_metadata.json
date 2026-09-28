@@ -1,0 +1,23 @@
+{
+  "best_k": 7,
+  "silhouette_scores": {
+    "2": 0.20262276268725346,
+    "3": 0.21449571596131492,
+    "4": 0.2325480578873492,
+    "5": 0.24722552369803333,
+    "6": 0.268066741209102,
+    "7": 0.2796426397119243
+  },
+  "features": [
+    "customer_tenure_days",
+    "engagement_score",
+    "watch_minutes_30d",
+    "watch_minutes_change_pct_30d",
+    "failed_payment_rate",
+    "support_ticket_count_90d",
+    "avg_customer_satisfaction",
+    "negative_feedback_rate_180d",
+    "customer_lifetime_value",
+    "current_monthly_price"
+  ]
+}
